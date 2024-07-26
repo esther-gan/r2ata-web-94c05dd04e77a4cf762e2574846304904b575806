@@ -1,0 +1,24 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.justifyText {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.buttonWrapper {
+  margin-bottom: 10px; /* Adjust as needed */
+}
+
+.customButton {
+  padding: 10px 20px; /* Example padding, adjust as needed */
+}
