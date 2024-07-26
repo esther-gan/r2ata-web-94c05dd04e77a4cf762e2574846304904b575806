@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/r2ata-web-94c05dd04e77a4cf762e2574846304904b575806/blog","blogTitle":"Blog"}')}}]);
